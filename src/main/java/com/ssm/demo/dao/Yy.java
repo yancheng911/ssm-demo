@@ -3,6 +3,7 @@ package com.ssm.demo.dao;
 public class Yy {
     private String name;
     private  int age;
+    private  int id;
 
     public String getName() {
         return name;
@@ -19,4 +20,7 @@ public class Yy {
     public void setAge(int age) {
         this.age = age;
     }
+    
+    
+    
 }
